@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: b7aae65d18c85eb4cb61cfa661e34efa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aiming up shooting_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 22
+        height: 64
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742e9c6d157cf74d955f337fe1c9e1b
+      internalID: -2039125973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 22
+        height: 64
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198188af9fef25c4485900e7c0eda3c1
+      internalID: -2075856356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 22
+        height: 66
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de6b030ef165fb4693cf1444e3c9260
+      internalID: 1204507470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.25641027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425600c275f0d645be7adca168203ab
+      internalID: -1712614818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 15
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.62, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb6983a43124446902d92d612da84d
+      internalID: 29634543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.62, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865971aefba8b364d9ea0b04f6d11bb8
+      internalID: 764219633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a94a7dd9ac21424893004b07402f081
+      internalID: -1246794419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163dd596f3a288a44b94ab1af95bc6f7
+      internalID: 36796825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 15
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f608ffac0d65ca4e8cbd8ac077922d8
+      internalID: -1287048188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiming up shooting_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a423b1b3099a0a438063512ef885a3d
+      internalID: 1203489360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aiming up shooting_15: -1287048188
+      Aiming up shooting_5: -530309486
+      Aiming up shooting_7: -98747131
+      Aiming up shooting_6: -557981274
+      Aiming up shooting_0: -2039125973
+      Aiming up shooting_1: -116271169
+      Aiming up shooting_13: -1246794419
+      Aiming up shooting_3: 274279963
+      Aiming up shooting_11: 29634543
+      Aiming up shooting_8: -2075856356
+      Aiming up shooting_4: 1292883542
+      Aiming up shooting_14: 36796825
+      Aiming up shooting_12: 764219633
+      Aiming up shooting_10: -1712614818
+      Aiming up shooting_9: 1204507470
+      Aiming up shooting_2: 127694870
+      Aiming up shooting_16: 1203489360
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
